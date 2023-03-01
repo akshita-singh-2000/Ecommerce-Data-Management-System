@@ -4,11 +4,10 @@
 E-commerce is a major source of data these days. Millions of orders are being place and delivered each day. The following project “E-Commerce Data Management System” can be looked at as a proof of concept (POC) about managing the e-commerce data and using it for analytical purposes at a large scale.
 
 ### Problem Statement:
-Prior to the development of the internet, customers had to physically visit a store to make
-purchases, but this is no longer the case. People can now purchase goods online from the comfort
-of their homes. This has resulted in the expansion of the e-commerce market. Due to this, tons of
+Following the COVID-19 pandemic, there has been a noticeable trend in which people prefer to buy goods online from the convenience and safety of their own homes. This has resulted in the expansion of the e-commerce market. Due to this, tons of
 data are produced and stored every second. Modern information technology is required to manage
 this e-commerce system due to the growing number of people engaging in electronic commerce.
+
 The e-commerce sector depends heavily on databases, and in the current environment, an ecommerce
 company's performance is directly related to how well it has optimized its database and
 so, efficient data management is crucial. Along with it, identifying trends and relevant conclusions
