@@ -3,7 +3,7 @@
 ### Summary:
 E-commerce is a major source of data these days. Millions of orders are being place and delivered each day. The following project “E-Commerce Data Management System” can be looked at as a proof of concept (POC) about managing the e-commerce data and using it for analytical purposes at a large scale.
 
-## Problem Statement:
+### Problem Statement:
 Prior to the development of the internet, customers had to physically visit a store to make
 purchases, but this is no longer the case. People can now purchase goods online from the comfort
 of their homes. This has resulted in the expansion of the e-commerce market. Due to this, tons of
@@ -25,7 +25,7 @@ The goal of this E-Commerce Data Management system is to showcase managing of re
 and utilizing the data for analytical purposes.
 
 ### Requirements:
-• MySQL workbench
+• MySQL workbench 
 • MongoDB Compass
 • Jupyter Notebook (Python)
 
